@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"XiongChenYu.obj" 
+TO "AlarmClock" 
+RAMSIZE(256) 
